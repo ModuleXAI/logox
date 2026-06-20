@@ -1,0 +1,8 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dış halka -->
+  <circle cx="64" cy="64" r="54" stroke="#8BCAF2" stroke-width="9" fill="none"/>
+  <!-- Stilize S -->
+  <path d="M80 57 C75 49 64 47 56 51 C48 55 48 63 57 66 C63 68 72 70 75 75 C79 81 76 90 67 92 C59 94 49 90 46 82"
+        stroke="#8BCAF2" stroke-width="9" fill="none"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
